@@ -1,0 +1,9 @@
+Date: 05-04-2025
+Log Id: 0001
+Username: John Doe
+Weight (lbs): 205
+Workout Type: Strength Training
+Duration: 10 minutes
+Intensity: Medium
+
+54.0 CALORIES BURNED

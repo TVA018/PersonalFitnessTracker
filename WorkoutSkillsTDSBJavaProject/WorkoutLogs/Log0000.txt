@@ -1,0 +1,9 @@
+Date: 05-03-2025
+Log Id: 0000
+Username: John Doe
+Weight (lbs): 205
+Workout Type: Walking
+Duration: 20 minutes
+Intensity: Low
+
+102.0 CALORIES BURNED
